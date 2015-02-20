@@ -1,0 +1,31 @@
+{
+  "name": "Your porject name",
+  "version": "0.0.0",
+  "authors": [
+    "Hyyan Abo Fakher <Tiribthea4hyyan@gmail.com>"
+  ],
+  "license": "Your project license",
+  "private": "true",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ionic": "driftyco/ionic-bower#master"
+  },
+  "overrides": {
+    "ionic": {
+      "main": [
+        "fonts/ionicons.eot",
+        "fonts/ionicons.svg",
+        "fonts/ionicons.ttf",
+        "fonts/ionicons.woff",
+        "js/ionic.js",
+        "js/ionic-angular.js"
+      ]
+    }
+  }
+}
