@@ -7,11 +7,11 @@
     "start": "brunch watch --server"
   },
   "devDependencies": {
-    "sass-brunch": ">= 1.0 <= 1.8.*",
-    "javascript-brunch": ">= 1.0 <= 1.8.*",
-    "css-brunch": ">= 1.0 <= 1.8",
-    "uglify-js-brunch": ">= 1.0 <= 1.8.*",
-    "clean-css-brunch": ">= 1.0 <= 1.8.*",
-    "auto-reload-brunch": ">= 1.0 <= 1.8.*"
+    "sass-brunch": "latest",
+    "javascript-brunch": "latest",
+    "css-brunch": "latest",
+    "uglify-js-brunch": "latest",
+    "clean-css-brunch": "latest",
+    "auto-reload-brunch": "latest"
   }
 }
